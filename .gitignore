@@ -1,0 +1,25 @@
+# 数据集（太大，Kaggle 下载即可）
+数据集/
+
+# 简历源文件（docx/pdf）
+简历-我的/
+简历样例-老师给的/
+
+# 临时脚本
+build_resume.py
+
+# 项目库
+可发展的项目库/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 原始散件（已归集到 portfolio/）
+作品集-作品未归类/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.claude/
