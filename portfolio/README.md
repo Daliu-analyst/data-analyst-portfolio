@@ -2,7 +2,7 @@
 
 > **求职方向：** 电商数据分析师 / 商业数据分析师  
 > **联系方式：** 17730136106 | 17730136106@163.com  
-> **GitHub：** [github.com/Daliu-analyst](https://github.com)（待替换为你的 GitHub 主页）
+> **GitHub：** [github.com/Daliu-analyst](https://github.com)
 
 ---
 
